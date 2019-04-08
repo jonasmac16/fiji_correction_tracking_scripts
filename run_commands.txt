@@ -1,0 +1,5 @@
+ImageJ-linux64 --ij2 --headless --console --run /home/jonas/Imperial/02_WT_PhD/03_PhD_project/05_Incucyte_Image_analysis/01_Code/src/correction/stack_correction.py 'FOLDER="/media/jonas/DATADISK1/XX_VM_shared_folder/01_IncuCyte/DK_001/Full/Test_correction"'
+
+
+ImageJ-linux64 --ij2 --headless --console --run /home/jonas/Imperial/02_WT_PhD/03_PhD_project/05_Incucyte_Image_analysis/01_Code/src/tracking/Track_mate_stack_tracking.py 'FOLDER="/media/jonas/DATADISK1/XX_VM_shared_folder/01_IncuCyte/DK_001/Full/Test_correction"'
+
